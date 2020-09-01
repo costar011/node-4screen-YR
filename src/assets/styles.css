@@ -22,13 +22,13 @@ body {
   width: 55%;
   height: 100%;
 
-  background-color: darkblue;
+  background-color: #74b9ff;
 }
 .screen .screen__top .screen__top2 {
   width: 50%;
   height: 100%;
 
-  background-color: darkgoldenrod;
+  background-color: #0984e3;
 }
 .screen .screen__main {
   width: 100%;
@@ -41,11 +41,11 @@ body {
   width: 55%;
   height: 100%;
 
-  background-color: darkgoldenrod;
+  background-color: #6a89cc;
 }
 .screen .screen__main .screen__main2 {
   width: 50%;
   height: 100%;
 
-  background-color: darkgreen;
+  background-color: #4a69bd;
 }
